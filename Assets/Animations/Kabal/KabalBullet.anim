@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: KabalBullet
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 6b731a2b3d80aa041ad8cc292051717f, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: b8bc95d73953e5948968bf5876e5de71, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 6aac177c2494d534d9e4fb66f0b2ebc2, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: da4416aff235b044e825024184a46ac6, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 8d054faaafaa0e1498c7d8d5f8c27db1, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: e02b3f06b2afa084eba9636f25f09859, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 4aff2a79a0c3bde499c7e9af85845bfa, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 6414eb2347ea66d42ab6e88d1ee08e7d, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: 3e2f22c62b015204caf6d5bfa7b71fad, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: addc42816fc6fb44a899ed6c511dd309, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 352ca93ae8cad1a499f220816e7961f0, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 39013f7fa5459184080c4e25267ee649, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: b453d64e2055ca740a058fab165e9c6c, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: b8c7f36255b450443b630bdbbce2316a, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 6b731a2b3d80aa041ad8cc292051717f, type: 3}
+    - {fileID: 21300000, guid: b8bc95d73953e5948968bf5876e5de71, type: 3}
+    - {fileID: 21300000, guid: 6aac177c2494d534d9e4fb66f0b2ebc2, type: 3}
+    - {fileID: 21300000, guid: da4416aff235b044e825024184a46ac6, type: 3}
+    - {fileID: 21300000, guid: 8d054faaafaa0e1498c7d8d5f8c27db1, type: 3}
+    - {fileID: 21300000, guid: e02b3f06b2afa084eba9636f25f09859, type: 3}
+    - {fileID: 21300000, guid: 4aff2a79a0c3bde499c7e9af85845bfa, type: 3}
+    - {fileID: 21300000, guid: 6414eb2347ea66d42ab6e88d1ee08e7d, type: 3}
+    - {fileID: 21300000, guid: 3e2f22c62b015204caf6d5bfa7b71fad, type: 3}
+    - {fileID: 21300000, guid: addc42816fc6fb44a899ed6c511dd309, type: 3}
+    - {fileID: 21300000, guid: 352ca93ae8cad1a499f220816e7961f0, type: 3}
+    - {fileID: 21300000, guid: 39013f7fa5459184080c4e25267ee649, type: 3}
+    - {fileID: 21300000, guid: b453d64e2055ca740a058fab165e9c6c, type: 3}
+    - {fileID: 21300000, guid: b8c7f36255b450443b630bdbbce2316a, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.25
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: 1.25
+    functionName: OnDestroy
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
